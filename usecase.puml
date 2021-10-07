@@ -1,0 +1,124 @@
+@startuml
+class com.Mabes.datatamu.activities.TambahAnggotaActivity {
+# Cursor cursor
+~ DataHelper1 dataHelper1
+~ ExtendedFloatingActionButton fabCreate
+~ EditText text1
+# void onCreate(Bundle)
++ boolean onOptionsItemSelected(MenuItem)
+}
+class com.Mabes.datatamu.activities.Tata_Tertib {
+# void onCreate(Bundle)
+}
+class com.Mabes.datatamu.activities.MapsActivity {
+- GoogleMap mMap
+# void onCreate(Bundle)
++ void onMapReady(GoogleMap)
+}
+class com.Mabes.datatamu.activities.BuatBiodataActivity {
+# Cursor cursor
+~ DataHelper dataHelper
+~ ExtendedFloatingActionButton fabCreate
+~ EditText text1
+# void onCreate(Bundle)
++ boolean onOptionsItemSelected(MenuItem)
+}
+class com.Mabes.datatamu.activities.Update_Anggota {
+# Cursor cursor
+~ DataHelper dataHelper
+~ ExtendedFloatingActionButton fabUpdate
+~ EditText text1
+# void onCreate(Bundle)
++ boolean onOptionsItemSelected(MenuItem)
+}
+class com.Mabes.datatamu.activities.lihatanggota {
+# Cursor cursor
+~ DataHelper1 dataHelper1
+~ TextView text1
+# void onCreate(Bundle)
++ boolean onOptionsItemSelected(MenuItem)
+}
+class com.Mabes.datatamu.helper.DataHelper {
+- {static} String DATABASE_NAME
+- {static} int DATABASE_VERSION
++ void onCreate(SQLiteDatabase)
++ void onUpgrade(SQLiteDatabase,int,int)
+}
+class com.Mabes.datatamu.activities.UpdateBiodataActivity {
+# Cursor cursor
+~ DataHelper dataHelper
+~ ExtendedFloatingActionButton fabUpdate
+~ EditText text1
+# void onCreate(Bundle)
++ boolean onOptionsItemSelected(MenuItem)
+}
+class com.Mabes.datatamu.activities.NewsActivity {
+~ WebView webView
+~ WebSettings webSettings
+# void onCreate(Bundle)
+}
+class com.Mabes.datatamu.activities.LihatBiodataActivity {
+# Cursor cursor
+~ DataHelper dataHelper
+~ TextView text1
+# void onCreate(Bundle)
++ boolean onOptionsItemSelected(MenuItem)
+}
+class com.Mabes.datatamu.helper.DataHelper1 {
+- {static} String DATABASE_NAME
+- {static} int DATABASE_VERSION
++ void onCreate(SQLiteDatabase)
++ void onUpgrade(SQLiteDatabase,int,int)
+}
+class com.Mabes.datatamu.activities.MainActivity2 {
+~ RelativeLayout button1
+~ RelativeLayout button2
+~ RelativeLayout button3
+~ RelativeLayout button4
+~ RelativeLayout button5
+~ RelativeLayout button6
++ void onCreate(Bundle)
+}
+class com.Mabes.datatamu.activities.BiodataAnggotaActivity {
+~ String[] daftar
+~ ListView lvData
+# Cursor cursor
+~ DataHelper1 dataHelper1
++ {static} com.Mabes.datatamu.activities.BiodataAnggotaActivity biodataAnggotaActivity
+# void onCreate(Bundle)
++ void RefreshList()
+}
+class com.Mabes.datatamu.MapsActivity {
+- GoogleMap mMap
+# void onCreate(Bundle)
++ void onMapReady(GoogleMap)
+}
+class com.Mabes.datatamu.activities.MainActivity {
+~ String[] daftar
+~ ListView lvData
+# Cursor cursor
+~ DataHelper dataHelper
++ {static} com.Mabes.datatamu.activities.MainActivity mainActivity
+# void onCreate(Bundle)
++ void RefreshList()
+}
+
+
+androidx.appcompat.app.AppCompatActivity <|-- com.Mabes.datatamu.activities.TambahAnggotaActivity
+androidx.appcompat.app.AppCompatActivity <|-- com.Mabes.datatamu.activities.Tata_Tertib
+com.google.android.gms.maps.OnMapReadyCallback <|.. com.Mabes.datatamu.activities.MapsActivity
+androidx.fragment.app.FragmentActivity <|-- com.Mabes.datatamu.activities.MapsActivity
+androidx.appcompat.app.AppCompatActivity <|-- com.Mabes.datatamu.activities.BuatBiodataActivity
+androidx.appcompat.app.AppCompatActivity <|-- com.Mabes.datatamu.activities.Update_Anggota
+androidx.appcompat.app.AppCompatActivity <|-- com.Mabes.datatamu.activities.lihatanggota
+android.database.sqlite.SQLiteOpenHelper <|-- com.Mabes.datatamu.helper.DataHelper
+androidx.appcompat.app.AppCompatActivity <|-- com.Mabes.datatamu.activities.UpdateBiodataActivity
+androidx.appcompat.app.AppCompatActivity <|-- com.Mabes.datatamu.activities.NewsActivity
+androidx.appcompat.app.AppCompatActivity <|-- com.Mabes.datatamu.activities.LihatBiodataActivity
+android.database.sqlite.SQLiteOpenHelper <|-- com.Mabes.datatamu.helper.DataHelper1
+androidx.appcompat.app.AppCompatActivity <|-- com.Mabes.datatamu.activities.MainActivity2
+androidx.appcompat.app.AppCompatActivity <|-- com.Mabes.datatamu.activities.BiodataAnggotaActivity
+com.google.android.gms.maps.OnMapReadyCallback <|.. com.Mabes.datatamu.MapsActivity
+androidx.fragment.app.FragmentActivity <|-- com.Mabes.datatamu.MapsActivity
+androidx.appcompat.app.AppCompatActivity <|-- com.Mabes.datatamu.activities.MainActivity
+@enduml

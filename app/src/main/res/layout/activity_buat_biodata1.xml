@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/background"
+    android:orientation="vertical">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="#37508F"
+            app:popupTheme="@style/AppTheme.PopupOverlay"
+            app:titleTextAppearance="@style/Toolbar.TitleText" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:background="#B03E4777"
+        android:textAlignment="center"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <CheckBox
+            android:id="@+id/checkBox2"
+            android:layout_width="208dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="12dp"
+            android:layout_marginEnd="171dp"
+            android:layout_marginBottom="184dp"
+            android:text="Membawa Kartu Indetitas"
+            android:textColor="#F6F0F0" />
+
+        <CheckBox
+            android:id="@+id/checkBox3"
+            android:layout_width="201dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="12dp"
+            android:layout_marginEnd="179dp"
+            android:layout_marginBottom="149dp"
+            android:text="Memakai Kemeja"
+            android:textColor="#F6F0F0" />
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView1"
+            android:layout_alignStart="@+id/textView1"
+            android:textColor="#FDFAFA">
+
+            <requestFocus />
+        </EditText>
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="89dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:text="Nomor KTP"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textColorHint="#FFFFFF"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="92dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/editText1"
+            android:layout_alignStart="@+id/editText1"
+            android:layout_marginTop="10dp"
+            android:text="Nama Tamu"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView2"
+            android:layout_alignStart="@+id/textView2"
+            android:textColor="#FDFAFA"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="55dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/editText2"
+            android:layout_alignStart="@+id/editText2"
+            android:layout_marginTop="10dp"
+            android:text="No HP"
+            android:textAlignment="center"
+            android:textColor="#F4F2F2"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/editText3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView3"
+            android:layout_alignStart="@+id/textView3"
+            android:textColor="#FDFAFA"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="101dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/editText3"
+            android:layout_alignStart="@+id/editText3"
+            android:layout_marginTop="10dp"
+            android:text="Jenis Kelamin"
+            android:textAlignment="center"
+            android:textColor="#F4F2F2"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/editText4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView4"
+            android:layout_alignStart="@+id/textView4"
+            android:hint=" L/P"
+            android:inputType="none"
+            android:textColor="#FDFAFA"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="145dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/editText4"
+            android:layout_alignStart="@+id/editText4"
+            android:layout_marginTop="10dp"
+            android:text="Tujuan / Kepentingan"
+            android:textAlignment="center"
+            android:textColor="#F8F2F2"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/editText5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView5"
+            android:layout_alignStart="@+id/textView5"
+            android:textColor="#FDFAFA"
+            android:textStyle="bold" />
+
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="208dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="12dp"
+            android:layout_marginEnd="171dp"
+            android:layout_marginBottom="221dp"
+            android:text="Memakai Celana Bahan"
+            android:textColor="#F6F0F0" />
+
+        <TextView
+            android:id="@+id/textView"
+            style="@style/Widget.MaterialComponents.TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="53dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="12dp"
+            android:layout_marginEnd="87dp"
+            android:layout_marginBottom="85dp"
+            android:text="*Perhatian Apabila Belum Memenuhi Syarat  Diatas Dilarang DIizinkan masuk."
+            android:textAlignment="textStart"
+            android:textColor="#FBF7F7"
+            android:textColorHighlight="#FAE5E5"
+            android:textDirection="firstStrong"
+            android:textStyle="bold" />
+
+        <CheckBox
+            android:id="@+id/checkBox5"
+            android:layout_width="159dp"
+            android:layout_height="23dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="13dp"
+            android:layout_marginEnd="221dp"
+            android:layout_marginBottom="267dp"
+            android:text="Memakai Sepatu"
+            android:textColor="#FFFFFF" />
+
+    </RelativeLayout>
+
+    <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+        android:id="@+id/fabCreate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        android:layout_margin="16dp"
+        android:background="#FFFFFF"
+        android:text="Tambah Data"
+        android:textColor="@android:color/white"
+        android:textSize="12sp"
+        android:theme="@style/MaterialTheme"
+        app:backgroundTint="#4E2727"
+        app:icon="@android:drawable/ic_input_add"
+        app:iconTint="#EFEAEA" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

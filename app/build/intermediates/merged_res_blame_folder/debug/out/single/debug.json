@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_crcodeanggota.jpg.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\drawable\\crcodeanggota.jpg"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_biodata1.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\layout\\activity_update_biodata1.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_book.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\drawable\\book.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lihatanggota.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\layout\\activity_lihatanggota.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_re.jpg.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\drawable\\re.jpg"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_news.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\layout\\activity_news.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tambah_anggota.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\layout\\activity_tambah_anggota.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test1.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\drawable\\test1.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_download.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\drawable\\download.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\drawable\\news.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calendar.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\drawable\\calendar.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lihat_biodata1.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\layout\\activity_lihat_biodata1.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update__anggota.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\layout\\activity_update__anggota.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hqdefault.jpg.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\drawable\\hqdefault.jpg"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_crcodetamu.jpg.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\drawable\\crcodetamu.jpg"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_background.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\mipmap-xxhdpi\\background.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_biodata.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\layout\\activity_update_biodata.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tata__tertib.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\layout\\activity_tata__tertib.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\drawable\\test.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main1.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\layout\\activity_main1.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_buat_biodata1.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\layout\\activity_buat_biodata1.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tatatertib.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\drawable\\tatatertib.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_buat_biodata.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\layout\\activity_buat_biodata.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\raw_videoplayback.mp4.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\raw\\videoplayback.mp4"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_report.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\drawable\\report.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lihat_biodata.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\layout\\activity_lihat_biodata.xml"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_biodata_anggota.xml.flat",
+        "source": "F:\\user\\Belajar Program\\AndroidStudioProjects\\Data Tamu Mabes TNI\\app\\src\\main\\res\\layout\\activity_biodata_anggota.xml"
+    }
+]
