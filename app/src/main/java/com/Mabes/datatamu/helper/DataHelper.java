@@ -9,6 +9,11 @@ import android.util.Log;
 public class DataHelper extends SQLiteOpenHelper {
 
     private static final String DATABASE_NAME = "biodatadiri.db";
+    public static final String TABLE__NAME = "biodata_anggota";
+    public static final String COL_1 = "no";
+    public static final String COL_2 = "nama";
+    public static final String COL_3 = "password";
+
     private static final int DATABASE_VERSION = 1;
     public DataHelper(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
@@ -37,6 +42,23 @@ public class DataHelper extends SQLiteOpenHelper {
     @Override
     public void onUpgrade(SQLiteDatabase arg0, int arg1, int arg2) {
 
+    }
+
+    public boolean checkuser(String nama, String password) {
+        String[] columns = { COL_1} ;
+        SQLiteDatabase db = getReadableDatabase();
+        String selection = COL_2 + "=?" + " and " + COL_3 + "=?";
+        String[] selectionArgs = { nama, password };
+        Cursor cursor = db.query(TABLE__NAME, columns, selection, selectionArgs, null, null, null);
+        int count = cursor.getCount();
+        cursor.close();
+        db.close();
+
+
+        if (count>0)
+            return true;
+        else
+            return false;
     }
 
 }
